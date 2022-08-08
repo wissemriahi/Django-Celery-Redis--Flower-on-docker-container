@@ -17,7 +17,7 @@ check sample_tasl.py to change the task operation
 
 Open your browser to http://localhost:5555 to view the Flower dashboard.
 
-[![alt text](https://github.com/wissemriahi/Django-Celery-Redis--Flower-on-docker-container/blob/master/Readme%20Pics/ flower%20dashboard.png"demo")]
+<img src="https://github.com/wissemriahi/Django-Celery-Redis--Flower-on-docker-container/blob/master/Readme%20Pics/flower%20dashboard.png" width="200"/>
 
 Trigger a new task:
 
